@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerDoctors" type="id">recyclerDoctors</item>
+    <item name="btnAddDoctor" type="id">btnAddDoctor</item>
+    <item name="progressDoctors" type="id">progressDoctors</item>
+    <item name="txtDoctorCount" type="id">txtDoctorCount</item>
+</resources>
