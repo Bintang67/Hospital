@@ -4,4 +4,5 @@
     <item name="btnAddDoctor" type="id">btnAddDoctor</item>
     <item name="progressDoctors" type="id">progressDoctors</item>
     <item name="txtDoctorCount" type="id">txtDoctorCount</item>
+    <item name="btnAdd" type="id">btnAdd</item>
 </resources>
